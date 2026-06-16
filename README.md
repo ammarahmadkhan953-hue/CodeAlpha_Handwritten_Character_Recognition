@@ -20,5 +20,5 @@ The core of this project is a Convolutional Neural Network (CNN) built with Tens
 * NumPy
 
 ## Author
-**Muhammad Shahzaib**
+**Ammar Ahmad Khan**
 Machine Learning Intern at CodeAlpha
